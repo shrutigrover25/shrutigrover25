@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrutigrover25
 - 👀 I’m interested in problem solving and making web applications.
-- 🌱 I’m currently learning JavaScript and DS Algo.
+- 🌱 I’m currently learning Mern Stack
 - 📫 You can reach out to me on shruti.grover2001@gmail.com
 
 <!---
